@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:70 (file):
+  file INSTALL cannot find
+  "/home/hp/arduino_cpp_publisher/src/arduinobot_firmware/arduinobot_firmware/simple_serial_transmitter.py,":
+  No such file or directory.
+
+[0m

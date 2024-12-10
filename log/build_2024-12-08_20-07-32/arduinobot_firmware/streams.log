@@ -1,0 +1,55 @@
+[0.013s] Invoking command in '/home/hp/arduino_cpp_publisher/build/arduinobot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hp/arduino_cpp_publisher/build/arduinobot_firmware -- -j8 -l8
+[0.038s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.306s] -- Found rclpy: 7.1.2 (/opt/ros/jazzy/share/rclpy/cmake)
+[0.449s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.568s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.569s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.570s] -- Added test 'lint_cmake' to check CMake code style
+[0.570s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.572s] -- Added test 'xmllint' to check XML markup files
+[0.573s] -- Configuring done (0.5s)
+[0.579s] -- Generating done (0.0s)
+[0.581s] -- Build files have been written to: /home/hp/arduino_cpp_publisher/build/arduinobot_firmware
+[0.626s] Built target ament_cmake_python_copy_arduinobot_firmware
+[0.877s] running egg_info
+[0.878s] creating arduinobot_firmware.egg-info
+[0.895s] writing arduinobot_firmware.egg-info/PKG-INFO
+[0.896s] writing dependency_links to arduinobot_firmware.egg-info/dependency_links.txt
+[0.900s] writing top-level names to arduinobot_firmware.egg-info/top_level.txt
+[0.901s] writing manifest file 'arduinobot_firmware.egg-info/SOURCES.txt'
+[0.963s] reading manifest file 'arduinobot_firmware.egg-info/SOURCES.txt'
+[0.963s] writing manifest file 'arduinobot_firmware.egg-info/SOURCES.txt'
+[0.995s] Built target ament_cmake_python_build_arduinobot_firmware_egg
+[1.012s] Invoked command in '/home/hp/arduino_cpp_publisher/build/arduinobot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hp/arduino_cpp_publisher/build/arduinobot_firmware -- -j8 -l8
+[1.023s] Invoking command in '/home/hp/arduino_cpp_publisher/build/arduinobot_firmware': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hp/arduino_cpp_publisher/build/arduinobot_firmware
+[1.032s] -- Install configuration: ""
+[1.032s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/pythonpath.sh
+[1.032s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/pythonpath.dsv
+[1.032s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/SOURCES.txt
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/top_level.txt
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/PKG-INFO
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware-0.0.0-py3.12.egg-info/dependency_links.txt
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/__init__.py
+[1.033s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/simple_serial_transmitter.py
+[1.077s] Listing '/home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware'...
+[1.077s] Compiling '/home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/__init__.py'...
+[1.077s] Compiling '/home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/python3.12/site-packages/arduinobot_firmware/simple_serial_transmitter.py'...
+[1.084s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/lib/arduinobot_firmware/simple_serial_transmitter.py
+[1.085s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/ament_index/resource_index/package_run_dependencies/arduinobot_firmware
+[1.085s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/ament_index/resource_index/parent_prefix_path/arduinobot_firmware
+[1.085s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/ament_prefix_path.sh
+[1.085s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/ament_prefix_path.dsv
+[1.085s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/path.sh
+[1.086s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/environment/path.dsv
+[1.086s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.bash
+[1.086s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.sh
+[1.086s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.zsh
+[1.086s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/local_setup.dsv
+[1.086s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/package.dsv
+[1.087s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/ament_index/resource_index/packages/arduinobot_firmware
+[1.087s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/cmake/arduinobot_firmwareConfig.cmake
+[1.087s] -- Up-to-date: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/cmake/arduinobot_firmwareConfig-version.cmake
+[1.087s] -- Installing: /home/hp/arduino_cpp_publisher/install/arduinobot_firmware/share/arduinobot_firmware/package.xml
+[1.089s] Invoked command in '/home/hp/arduino_cpp_publisher/build/arduinobot_firmware' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hp/arduino_cpp_publisher/build/arduinobot_firmware
